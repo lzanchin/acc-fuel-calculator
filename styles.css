@@ -1,0 +1,12 @@
+.container{
+    margin-top: 3%;        
+    width: 450px;
+    height: 200px;
+    position: relative;
+    
+}
+
+.centered-wrapper {
+    position: relative;
+    text-align: center;
+}
